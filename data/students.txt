@@ -1,0 +1,8 @@
+S001|Abebe Girma|Computer Science|3.85
+S002|Tigist Haile|Electrical Engineering|3.60
+S003|Yonas Tesfaye|Information Systems|2.95
+S004|Selamawit Bekele|Software Engineering|3.72
+S005|Dawit Mengistu|Computer Science|2.40
+S006|Hiwot Alemu|Data Science|3.91
+S007|Bereket Tadesse|Electrical Engineering|3.10
+S008|Mekdes Wolde|Information Systems|3.55
