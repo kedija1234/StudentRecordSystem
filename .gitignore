@@ -1,0 +1,5 @@
+out/
+*.class
+*.dat
+*.ser
+data/backup/backup_*.txt
